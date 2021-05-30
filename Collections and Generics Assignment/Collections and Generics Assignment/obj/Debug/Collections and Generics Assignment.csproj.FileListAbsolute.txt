@@ -1,0 +1,7 @@
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\Collections and Generics Assignment\Collections and Generics Assignment\obj\Debug\Collections and Generics Assignment.csprojAssemblyReference.cache
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\Collections and Generics Assignment\Collections and Generics Assignment\obj\Debug\Collections and Generics Assignment.csproj.CoreCompileInputs.cache
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\Collections and Generics Assignment\Collections and Generics Assignment\bin\Debug\Collections and Generics Assignment.exe.config
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\Collections and Generics Assignment\Collections and Generics Assignment\bin\Debug\Collections and Generics Assignment.exe
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\Collections and Generics Assignment\Collections and Generics Assignment\bin\Debug\Collections and Generics Assignment.pdb
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\Collections and Generics Assignment\Collections and Generics Assignment\obj\Debug\Collections and Generics Assignment.exe
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\Collections and Generics Assignment\Collections and Generics Assignment\obj\Debug\Collections and Generics Assignment.pdb

@@ -1,0 +1,7 @@
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\CSharp-Assignment\CSharp-Assignment\bin\Debug\CSharp-Assignment.exe.config
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\CSharp-Assignment\CSharp-Assignment\bin\Debug\CSharp-Assignment.exe
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\CSharp-Assignment\CSharp-Assignment\bin\Debug\CSharp-Assignment.pdb
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\CSharp-Assignment\CSharp-Assignment\obj\Debug\CSharp-Assignment.csprojAssemblyReference.cache
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\CSharp-Assignment\CSharp-Assignment\obj\Debug\CSharp-Assignment.csproj.CoreCompileInputs.cache
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\CSharp-Assignment\CSharp-Assignment\obj\Debug\CSharp-Assignment.exe
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\CSharp-Assignment\CSharp-Assignment\obj\Debug\CSharp-Assignment.pdb
