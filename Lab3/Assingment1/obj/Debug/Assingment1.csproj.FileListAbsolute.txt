@@ -1,0 +1,7 @@
+D:\DotNetAssingments\DotNetAssingments\Lab3\Assingment1\bin\Debug\Assingment1.exe.config
+D:\DotNetAssingments\DotNetAssingments\Lab3\Assingment1\bin\Debug\Assingment1.exe
+D:\DotNetAssingments\DotNetAssingments\Lab3\Assingment1\bin\Debug\Assingment1.pdb
+D:\DotNetAssingments\DotNetAssingments\Lab3\Assingment1\obj\Debug\Assingment1.csprojAssemblyReference.cache
+D:\DotNetAssingments\DotNetAssingments\Lab3\Assingment1\obj\Debug\Assingment1.csproj.CoreCompileInputs.cache
+D:\DotNetAssingments\DotNetAssingments\Lab3\Assingment1\obj\Debug\Assingment1.exe
+D:\DotNetAssingments\DotNetAssingments\Lab3\Assingment1\obj\Debug\Assingment1.pdb

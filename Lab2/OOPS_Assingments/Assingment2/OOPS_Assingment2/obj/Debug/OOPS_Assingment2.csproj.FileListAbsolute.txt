@@ -1,0 +1,10 @@
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\OOPS_Assingment2\bin\Debug\OOPS_Assingment2.exe.config
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\OOPS_Assingment2\bin\Debug\OOPS_Assingment2.exe
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\OOPS_Assingment2\bin\Debug\OOPS_Assingment2.pdb
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\OOPS_Assingment2\bin\Debug\Project.dll
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\OOPS_Assingment2\bin\Debug\Project.pdb
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\OOPS_Assingment2\obj\Debug\OOPS_Assingment2.csprojAssemblyReference.cache
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\OOPS_Assingment2\obj\Debug\OOPS_Assingment2.csproj.CoreCompileInputs.cache
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\OOPS_Assingment2\obj\Debug\OOPS_Assingment2.csproj.CopyComplete
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\OOPS_Assingment2\obj\Debug\OOPS_Assingment2.exe
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\OOPS_Assingment2\obj\Debug\OOPS_Assingment2.pdb

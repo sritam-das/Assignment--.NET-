@@ -1,0 +1,5 @@
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\Project\bin\Debug\Project.dll
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\Project\bin\Debug\Project.pdb
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\Project\obj\Debug\Project.dll
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment2\Project\obj\Debug\Project.pdb

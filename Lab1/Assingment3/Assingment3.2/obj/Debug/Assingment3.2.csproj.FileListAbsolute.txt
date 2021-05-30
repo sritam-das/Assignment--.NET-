@@ -1,0 +1,6 @@
+D:\DotNetAssingments\DotNetAssingments\Assingment3\Assingment3.2\bin\Debug\Assingment3.2.exe.config
+D:\DotNetAssingments\DotNetAssingments\Assingment3\Assingment3.2\bin\Debug\Assingment3.2.exe
+D:\DotNetAssingments\DotNetAssingments\Assingment3\Assingment3.2\bin\Debug\Assingment3.2.pdb
+D:\DotNetAssingments\DotNetAssingments\Assingment3\Assingment3.2\obj\Debug\Assingment3.2.csproj.CoreCompileInputs.cache
+D:\DotNetAssingments\DotNetAssingments\Assingment3\Assingment3.2\obj\Debug\Assingment3.2.exe
+D:\DotNetAssingments\DotNetAssingments\Assingment3\Assingment3.2\obj\Debug\Assingment3.2.pdb

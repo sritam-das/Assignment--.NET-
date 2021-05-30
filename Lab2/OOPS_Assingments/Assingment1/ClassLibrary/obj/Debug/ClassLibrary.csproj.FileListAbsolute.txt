@@ -1,0 +1,6 @@
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment1\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment1\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment1\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment1\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment1\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\DotNetAssingments\DotNetAssingments\OOPS_Assingments\Assingment1\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
