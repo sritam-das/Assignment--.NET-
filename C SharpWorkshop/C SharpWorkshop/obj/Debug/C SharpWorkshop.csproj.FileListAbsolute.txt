@@ -1,0 +1,7 @@
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\C SharpWorkshop\C SharpWorkshop\bin\Debug\C SharpWorkshop.exe.config
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\C SharpWorkshop\C SharpWorkshop\bin\Debug\C SharpWorkshop.exe
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\C SharpWorkshop\C SharpWorkshop\bin\Debug\C SharpWorkshop.pdb
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\C SharpWorkshop\C SharpWorkshop\obj\Debug\C SharpWorkshop.csprojAssemblyReference.cache
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\C SharpWorkshop\C SharpWorkshop\obj\Debug\C SharpWorkshop.csproj.CoreCompileInputs.cache
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\C SharpWorkshop\C SharpWorkshop\obj\Debug\C SharpWorkshop.exe
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\C SharpWorkshop\C SharpWorkshop\obj\Debug\C SharpWorkshop.pdb

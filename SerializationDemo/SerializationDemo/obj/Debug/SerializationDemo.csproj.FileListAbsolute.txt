@@ -1,0 +1,7 @@
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.exe.config
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.exe
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.pdb
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.csprojAssemblyReference.cache
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.csproj.CoreCompileInputs.cache
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.exe
+E:\DEMO CYBAGE\Vrushali Bhise\C# Demos\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.pdb
